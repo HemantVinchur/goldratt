@@ -1,0 +1,102 @@
+[
+  {
+    "id": 10,
+    "name": "Pratiksha Chavan",
+    "email": "pratiksha.chavan@goldrattgroup.com",
+    "contact": 9087654321,
+    "file_miss_count_mail_preference": 1,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 11,
+    "name": "Madhuri Patil",
+    "email": "madhuri.patil@goldrattgroup.com",
+    "contact": "N/A",
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 12,
+    "name": "Divyesh Pandya",
+    "email": "divyesh.pandya@goldrattgroup.com",
+    "contact": 9434814916,
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 13,
+    "name": "Vikas Kashyap",
+    "email": "vikas.kashyap@goldrattgroup.com",
+    "contact": "93242 09842",
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 14,
+    "name": "Sameer Sawale",
+    "email": "sameer.sawale@goldrattgroup.com",
+    "contact": "93242 09842",
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 15,
+    "name": "Ravindra Udagatti",
+    "email": "ravindra.udagatti@goldrattgroup.com",
+    "contact": "93242 09842",
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 16,
+    "name": "Vivek Kumar",
+    "email": "k.vivek@hrjohnsonindia.com",
+    "contact": "93242 09842",
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 17,
+    "name": "Nitin Dubey",
+    "email": "dubey.nitin@hrjohnsonindia.com",
+    "contact": "93242 09842",
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 18,
+    "name": "Chittaranjan Joshi",
+    "email": "joshi.chittaranjan@hrjohnsonindia.com",
+    "contact": "93242 09842",
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  },
+  {
+    "id": 19,
+    "name": "Utkarsha Salunkhe",
+    "email": "salunkhe.utkarsha@hrjohnsonindia.com",
+    "contact": "93242 09842",
+    "file_miss_count_mail_preference": 5,
+    "daily_mail_day_pref": 1,
+    "current_mail_buffer": 0,
+    "created_at": "2020-12-08 06:00:56"
+  }
+]
