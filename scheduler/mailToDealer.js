@@ -49,10 +49,10 @@ const sendMailToDealer = (filterData) => {
           html: `<p>Dear User,</p>
                     <br/>
                     <p>It has been noted that the data from connector is not flowing since <b>${
-                      element.last_seen.split("-")[2]
-                    }/${element.last_seen.split("-")[1]}/${
             element.last_seen.split("-")[0]
-          }</b>. Please note the following possible reasons and correct them accordingly.</p>
+            }/${element.last_seen.split("-")[1]}/${
+            element.last_seen.split("-")[2]
+            }</b>. Please note the following possible reasons and correct them accordingly.</p>
                     <br/>
                     <p><ol><li>Computer and / or internet is not on while transmitting the data. Resolution: Ensure that the computer and internet is on at the scheduled time of transmitting data</li><li>Latest stock file is not available at the target folder. Resolution: Ensure that daily stock file in the prescribed format with latest data is kept at the target folder <b>\\desktop\\connector</b></li><li>Name of file should be Status-summary-YYYY-MM-DD-Dealer/distributor/vendor name For example: Status-summary-2020-05-18-XYZ Enterprise.</li></ol></p>
                     <p>If above things are in place please contact HRJ's Symphony Helpdesk for resolving the issue</p>
